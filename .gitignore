@@ -1,1 +1,8 @@
-site_name: My Docs
+site/
+env/
+dist/
+htmlcov/
+.tox/
+mkdocs.egg-info/
+*.pyc
+.coverage
